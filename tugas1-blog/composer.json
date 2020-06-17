@@ -1,0 +1,20 @@
+{
+    "name": "afirazulfa/tugas1-blog",
+    "description": "Program Latihan Pemrograman Berbasis Web Lanjutan - tugas1-blog",
+    "type": "project",
+    "require": {
+        "php": "^7.4"
+    },
+    "authors": [
+        {
+            "name": "afirazulfa",
+            "email": "afirazulfa23@gmail.com"
+        }
+    ],
+    "autoload" : {
+        "psr-4" : {
+            "App\\" : "app/"
+        }
+    }
+
+}
